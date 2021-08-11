@@ -4,7 +4,6 @@ This package help to use custom spinner with title, title with subtitle, title w
 
 [![Build Status](https://api.cirrus-ci.com/github/flutter/plugins.svg)](https://github.com/ChrisMukasa/flutter_text_box/blob/master)
 [![Release Status](https://github.com/flutter/plugins/actions/workflows/release.yml/badge.svg)](https://github.com/ChrisMukasa/flutter_text_box/actions/workflows/release.yml)
-[![Release Version](https://github.com/flutter/plugins/actions/workflows/release.yml/badge.svg)](https://github.com/ChrisMukasa/flutter_text_box/actions/workflows/release.yml)
 
 ## Usage
 [Example link](https://github.com/ChrisMukasa/flutter_text_box/blob/master/example/example.dart)
